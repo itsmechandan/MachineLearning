@@ -32,7 +32,9 @@ ML_Projects/
 │   └── README.md
 │
 ├── IRIS/
-│   ├── iris_classification.ipynb
+│   ├── Data_visualisation.ipynb
+|   ├── Logistic Regression.pdf
+|   ├── Logistic_Regression.ipynb
 │   └── README.md
 │
 ├── MachineLearning_Math/
@@ -41,13 +43,6 @@ ML_Projects/
 │   ├── Regularization_Math.ipynb
 │   └── README.md
 │
-├── Movie-recommender/
-│   ├── movie_recommender.ipynb
-│   └── README.md
-│
-├── Sms-Spam-Detection/
-│   ├── spam_detection.ipynb
-│   └── README.md
 │
 └── README.md  ← main portfolio overview
 ```
