@@ -43,7 +43,6 @@ b := b - \alpha \frac{\partial J(w,b)}{\partial b}
 \]
 
 ---
-
 ## ⚙️ 3. Implementation Workflow
 
 ### Phase 1: Manual Mathematical Implementation
