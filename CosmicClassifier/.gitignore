@@ -1,0 +1,19 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.cache/
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+.vscode/
+
+# Data & artifacts
+pklfiles/
+*.pkl
+*.joblib
+*.sav
+*.log
