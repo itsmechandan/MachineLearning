@@ -37,3 +37,5 @@ Converted internally to 1 and 0 for model training
 | `fDist`    | Distance from image centroid to camera center (mm) |
 
 In simple Words, this is a Binary Classification Problem Statement
+
+The entire Math Notes is over here: https://bitspilaniac-my.sharepoint.com/:o:/g/personal/f20220910_pilani_bits-pilani_ac_in/EuHukMQUo5tMj6jh80K4A94BYCihpiKhlEehZ8STaECQWA?e=TUXJ8e
